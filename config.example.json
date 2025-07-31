@@ -1,0 +1,5 @@
+{
+  "api_key": "sk-your_openai_api_key_here",
+  "proxy": "http://127.0.0.1:7890",
+  "student_id": "student001"
+}

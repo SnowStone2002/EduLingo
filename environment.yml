@@ -6,4 +6,5 @@ dependencies:
   - pip
   - pip:
     - streamlit>=1.24
-    - openai
+    - openai>=0.28.0
+    - typing-extensions>=4.0.0
